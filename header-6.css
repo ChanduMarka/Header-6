@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+ 
+}
+.bt:hover{
+    /* background-color: red; */
+    color: red;
+  }
+
+  
+
+  .nav-link{
+
+    font-weight: bold;
+    color: black;
+    
+  }
+  .font{
+    color: rgb(255, 98, 0);
+    font-weight: bolder;
+  }
+  body{
+    overflow-x: hidden;
+    overflow-y: hidden;
+  }
+
